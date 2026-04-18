@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f6dada;
+}
+
+main {
+  display: flex;
+} 
+
+section {
+  width: 70%;
+  padding: 20px;
+}
+
+aside {
+  width: 30%;
+  padding: 20px;
+  background-color: darkmagenta;
+  color: white;
+}
+
+header {
+  background-color: #222;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav  {
+  background-color: #444;
+  padding: 10px;
+  text-align: center;
+  color: white;
+
+}
+
+nav a {
+  color: white;
+  margin: 0 20px; 
+  text-decoration: none;
+}
+
+article {
+  background-color: white;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 6px;
+}
+
